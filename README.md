@@ -65,3 +65,9 @@ To create a user-friendly and interactive platform using Power BI that empowers 
 
 ## ✅ Conclusion
 This Power BI dashboard successfully delivers a central platform for analyzing US car sales. With rich visuals and critical KPIs, it empowers stakeholders to make data-informed decisions and fine-tune sales strategies for improved business outcomes.
+
+## 🖼 Dashboard
+![Overview](https://github.com/user-attachments/assets/bc0bfb72-f674-4382-bf57-4dabb2f55081)
+![Details ](https://github.com/user-attachments/assets/21a18c70-e420-4282-9031-29ac471813f0)
+
+
